@@ -32,3 +32,8 @@ As we gear up for our hi-fidelity prototype, we’ll be taking notes on how user
 
 ## Wizardry
 During the experiment, my partner and I plan to play the wizard by simulating backend processes of our app – namely, guiding the user through a “tutorial” on how to use our app. Our goal is to have a user navigate through a few simple tasks; adding a contact, viewing stats, and generating a new message. By doing these few tasks, the user should be able to see the utility of our app, and how easy it is to keep up with their professional networking.
+
+![G3ab Image 1](Images/G3AB/1.png)
+![G3ab Image 2](Images/G3AB/2.png)
+![G3ab Image 3](Images/G3AB/3.png)
+![G3ab Image 4](Images/G3AB/4.png)
