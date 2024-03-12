@@ -1,4 +1,4 @@
-# NetWorked: Revolutionizing Professional Networking
+# NetWorked: Networking Assistant App
 
 In today's fast-paced professional environment, cultivating a strong professional network poses a significant challenge, particularly for emerging professionals embarking on their career journey. Understanding the importance of meaningful connections, we've embarked on a mission to simplify and demystify the networking process.
 
