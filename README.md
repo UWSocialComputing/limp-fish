@@ -10,6 +10,7 @@ Recognizing that initiating conversation is often the most daunting task, we've 
 
 ### Video Demo
 [![NetWorked Video Demo](https://img.youtube.com/vi/LqRIqNOIrLc/0.jpg)](https://www.youtube.com/watch?v=LqRIqNOIrLc)
+Click the thumbnail above to watch NetWorked in action!
 
 
 ### About NetWorked's Creators
@@ -23,12 +24,20 @@ Feel free to check out their other projects on their [portfolio site](https://jb
 At the time of writing this, Jasper has no photos of Danno to use here, but they also have one posted on their [LinkedIn profile](https://www.linkedin.com/in/danno-muggli/).
 Danno worked mainly on the frontend development for this project, focusing on the many moving parts of NetWorked's home dashboard, as well as the contacts component.
 
-## Get Started
+## Blog Posts
+During our process of creating NetWorked, we kept a blog to track our progress. Check out the posts below!
+- [User Research Report](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G1.md)
+- [Low-Fidelity Prototype]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G3ab.md))
+- [Code Design & Specification]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G4.md))
+- [User Testing]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G6.md))
+- [Digital Prototype]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G7.md))
 
-We warmly invite you to experience our high-fidelity prototype by visiting our GitHub repository at [NetWorked on GitHub](https://github.com/UWSocialComputing/Limp-Fish-code). Dive into the features and discover the transformative potential of NetWorked on your networking endeavors. 
+## Try Our Prototype
 
-- **Add Contacts**: Choose who you want to connect with from your professional circles.
-- **Schedule Events**: Set reminders to reach out to your contacts at intervals you select.
-- **Use the Message Center**: Generate conversation prompts with ChatGPT to help you begin interactions confidently.
+We warmly invite you to **experience our high-fidelity prototype** by visiting our GitHub repository at [NetWorked on GitHub](https://github.com/UWSocialComputing/Limp-Fish-code). Dive into the features and discover the transformative potential of NetWorked on your networking endeavors. 
+
+- *Add Contacts*: Choose who you want to connect with from your professional circles.
+- *Schedule Events*: Set reminders to reach out to your contacts at intervals you select.
+- *Use the Message Center*: Generate conversation prompts with ChatGPT to help you begin interactions confidently.
 
 Explore NetWorked's features and envision its impact on your professional networking efforts. Start building meaningful connections today!
