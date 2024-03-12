@@ -37,7 +37,7 @@ During our process of creating NetWorked, we kept a blog to track our progress. 
 
 ## Try Our Prototype
 
-We warmly invite you to **experience our high-fidelity prototype** by visiting our GitHub repository at [NetWorked on GitHub](https://github.com/UWSocialComputing/Limp-Fish-code). Dive into the features and discover the transformative potential of NetWorked on your networking endeavors. 
+We warmly invite you to **experience our high-fidelity prototype** by visiting our GitHub repository and following the instructions at at [NetWorked on GitHub](https://github.com/UWSocialComputing/Limp-Fish-code). Dive into the features and discover the transformative potential of NetWorked on your networking endeavors. 
 
 - *Add Contacts*: Choose who you want to connect with from your professional circles.
 - *Schedule Events*: Set reminders to reach out to your contacts at intervals you select.
