@@ -9,8 +9,9 @@ Our solution is a mobile application named **NetWorked**, designed to foster gen
 Recognizing that initiating conversation is often the most daunting task, we've integrated ChatGPT to offer customizable prompts tailored to the user's unique context. This feature serves as a conversation starter, facilitating deeper engagement and fostering meaningful relationships.
 
 ### Video Demo
+Click the thumbnail below to watch NetWorked in action!
+
 [![NetWorked Video Demo](https://img.youtube.com/vi/LqRIqNOIrLc/0.jpg)](https://www.youtube.com/watch?v=LqRIqNOIrLc)
-Click the thumbnail above to watch NetWorked in action!
 
 
 ### About NetWorked's Creators
