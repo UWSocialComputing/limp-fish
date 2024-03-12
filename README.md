@@ -1,9 +1,19 @@
-Welcome to your CSE 481p repo! 
+# NetWorked: Revolutionizing Professional Networking
 
-This repo will serve as a place to both collaborate on code with your group members as well as create your blog sites for your projects. It contains a `_config.yml` file that automatically turns your `README.md` files into webpages hosted on GitHub pages. 
+In today's fast-paced professional environment, cultivating a strong professional network poses a significant challenge, particularly for emerging professionals embarking on their career journey. Understanding the importance of meaningful connections, we've embarked on a mission to simplify and demystify the networking process.
 
-Please refer to the README in [this repo](https://github.com/nicolas-van/easy-markdown-to-github-pages) for more on the markdown to webpage generation process. Most of the steps have already been done for you, so the most relevant content will likely be in the User Guide and the sections following that. 
+## About NetWorked
 
-If you want to change the site's Jekyll template and/or add custom CSS, please refer to [this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
+Our solution is a mobile application named **NetWorked**, designed to foster genuine connections beyond superficial interactions like "likes" or impersonal "connect" messages on platforms like LinkedIn. **NetWorked** empowers users to thoughtfully select contacts from LinkedIn, in-person meetings, or other professional settings, whom they wish to develop stronger ties with. It enables users to set the frequency of interaction and schedule reminders for reaching out via their preferred communication method, be it text, email, or phone calls.
 
-You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
+Recognizing that initiating conversation is often the most daunting task, we've integrated ChatGPT to offer customizable prompts tailored to the user's unique context. This feature serves as a conversation starter, facilitating deeper engagement and fostering meaningful relationships.
+
+## Get Started
+
+We warmly invite you to experience our high-fidelity prototype by visiting our GitHub repository at [NetWorked on GitHub](https://github.com/UWSocialComputing/Limp-Fish-code). Dive into the features and discover the transformative potential of NetWorked on your networking endeavors. 
+
+- **Add Contacts**: Choose who you want to connect with from your professional circles.
+- **Schedule Events**: Set reminders to reach out to your contacts at intervals you select.
+- **Use the Message Center**: Generate conversation prompts with ChatGPT to help you begin interactions confidently.
+
+Explore NetWorked's features and envision its impact on your professional networking efforts. Start building meaningful connections today!
