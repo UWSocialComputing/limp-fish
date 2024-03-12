@@ -8,6 +8,21 @@ Our solution is a mobile application named **NetWorked**, designed to foster gen
 
 Recognizing that initiating conversation is often the most daunting task, we've integrated ChatGPT to offer customizable prompts tailored to the user's unique context. This feature serves as a conversation starter, facilitating deeper engagement and fostering meaningful relationships.
 
+### Video Demo
+[![NetWorked Video Demo](https://img.youtube.com/vi/LqRIqNOIrLc/0.jpg)](https://www.youtube.com/watch?v=LqRIqNOIrLc)
+
+
+### About NetWorked's Creators
+
+**Jasper Rei Balinas, they/them**
+Doesn't enjoy having their photos on the internet, but they do have one posted on their [LinkedIn profile](https://www.linkedin.com/in/jasper-rei-balinas-200952152/).
+Jasper worked mainly on the backend development for this project, as well as focusing on all aspects of the calendar and message center (ChatGPT) components.
+Feel free to check out their other projects on their [portfolio site](https://jbalinas.github.io/portfolio/).
+
+**Danno Muggli, he/him**
+At the time of writing this, Jasper has no photos of Danno to use here, but they also have one posted on their [LinkedIn profile](https://www.linkedin.com/in/danno-muggli/).
+Danno worked mainly on the frontend development for this project, focusing on the many moving parts of NetWorked's home dashboard, as well as the contacts component.
+
 ## Get Started
 
 We warmly invite you to experience our high-fidelity prototype by visiting our GitHub repository at [NetWorked on GitHub](https://github.com/UWSocialComputing/Limp-Fish-code). Dive into the features and discover the transformative potential of NetWorked on your networking endeavors. 
