@@ -17,21 +17,23 @@ Click the thumbnail below to watch NetWorked in action!
 ### About NetWorked's Creators
 
 **Jasper Rei Balinas, they/them**
+
 Doesn't enjoy having their photos on the internet, but they do have one posted on their [LinkedIn profile](https://www.linkedin.com/in/jasper-rei-balinas-200952152/).
 Jasper worked mainly on the backend development for this project, as well as focusing on all aspects of the calendar and message center (ChatGPT) components.
 Feel free to check out their other projects on their [portfolio site](https://jbalinas.github.io/portfolio/).
 
 **Danno Muggli, he/him**
+
 At the time of writing this, Jasper has no photos of Danno to use here, but they also have one posted on their [LinkedIn profile](https://www.linkedin.com/in/danno-muggli/).
 Danno worked mainly on the frontend development for this project, focusing on the many moving parts of NetWorked's home dashboard, as well as the contacts component.
 
 ## Blog Posts
 During our process of creating NetWorked, we kept a blog to track our progress. Check out the posts below!
 - [User Research Report](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G1.md)
-- [Low-Fidelity Prototype]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G3ab.md))
-- [Code Design & Specification]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G4.md))
-- [User Testing]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G6.md))
-- [Digital Prototype]([https://jbalinas.github.io/portfolio/](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G7.md))
+- [Low-Fidelity Prototype](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G3ab.md)
+- [Code Design & Specification](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G4.md)
+- [User Testing](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G6.md)
+- [Digital Prototype](https://github.com/UWSocialComputing/limp-fish/blob/main/Reports/G7.md)
 
 ## Try Our Prototype
 
